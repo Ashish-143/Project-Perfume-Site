@@ -1,0 +1,61 @@
+body{
+  background-color: #F7EDDB;
+}
+h1{
+  padding: 0 20px 0 320px;
+}
+h2{
+  padding: 20px 0 0 320px;
+}
+p{
+  padding: 0 20px 0 320px;
+  font-size:25px;
+  width:50%
+}
+.css-button {
+	font-family: Arial;
+	color: #FFFFFF;
+	font-size: 25px;
+	border-radius: 6px;
+	border: 1px #3866a3 solid;
+	background: linear-gradient(180deg, #53bf9d 41%, #147823 78%);
+	text-shadow: 1px 1px 1px #528ecc;
+	box-shadow: inset 1px 1px 2px 0px #bbdaf7;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+  margin: 0 0 0 120px;
+}
+.css-button:hover {
+	background: linear-gradient(180deg, #147823 41%, #53bf9d 78%);
+}
+.css-button-icon {
+	padding: 10px 10px;
+	border-right: 1px solid rgba(255, 255, 255, 0.16);
+	box-shadow: rgba(0, 0, 0, 0.14) -1px 0px 0px inset;
+}
+.css-button-text {
+	padding: 10px 18px;
+}
+.cut{
+  text-decoration: line-through;
+  font-size: 20px;
+  color:#3F4E4F;
+  font-weight: normal;
+}
+.per{
+  float:left;
+  width:40%;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 20px;
+}
+.price{
+  color:#53BF9D;
+}
+.pro{
+  background-color: white;
+  margin: 100px 400px;
+  height:457px;
+  width:50%;
+  border-radius: 20px;
+}
